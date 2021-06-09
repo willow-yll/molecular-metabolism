@@ -4,6 +4,11 @@ import os
 import numpy as np
 import tqdm
 
+
+"""
+data for GCC
+https://github.com/THUDM/GCC
+"""
 file_dir_path = r'D:\test_data'
 file_name = r'glory_aam.sdf'
 file_path = os.path.join(file_dir_path,file_name)
